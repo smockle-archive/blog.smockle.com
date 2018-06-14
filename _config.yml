@@ -19,9 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I’m Clay Miller. Builder. Explorer. Thought-Haver.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ghpages.smockle.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: smockled
-github_username:  smockle
-show_excerpts: true
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
 markdown: kramdown
