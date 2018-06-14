@@ -160,7 +160,6 @@ blockquote cite {
 } /* * CODE */
 pre {
   background-color: #eee;
-  border-radius: 0;
   box-sizing: border-box;
   margin-bottom: 1em;
   padding: 1rem;
@@ -185,6 +184,7 @@ code,
 kbd,
 samp {
   border: 0;
+  border-radius: 0;
   font-family: "SFMono-Regular", "Operator Mono", Menlo, "Source Code Pro",
     monospace;
   font-size: 1.1rem;
