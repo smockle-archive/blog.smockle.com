@@ -27,7 +27,10 @@ blockquote {
 }
 .post-list { padding: 0; }
 .post-header { margin: 0; }
-.post-title { margin-bottom: calc(var(--margin) / 2); }
+.post-title {
+  line-height: var(--font-line-height-title);
+  margin-bottom: calc(var(--margin) / 2);
+}
 
 // normalize.css
 
@@ -50,6 +53,7 @@ blockquote {
   --margin-list: calc(var(--margin) * 1.75);
   --font-size: 1.5rem;
   --font-line-height: 1.7;
+  --font-line-height-title: calc(var(--font-line-height) * 0.7);
 }
 
 @font-face {
@@ -108,6 +112,7 @@ h1, h2, h3, h4 {
   font-family: var(--font-title);
   font-variant-numeric: oldstyle-nums;
   font-weight: 700;
+  line-height: var(--font-line-height-title);
 }
 h1 {
   font-size: calc(var(--font-size) * 2);
@@ -259,7 +264,7 @@ hr {
   font-family: var(--font-title);
   font-size: calc(var(--font-size) * 1.66);
   font-weight: 700;
-  line-height: calc(var(--font-line-height) * 0.66);
+  line-height: var(--font-line-height-title);
 }
 
 .post-meta {
