@@ -2,4 +2,4 @@
 layout: post
 ---
 
-Hi Clay it really definitely worked, even after moving again.
+Hi Clay it really definitely worked, even after moving again and from mobile.
