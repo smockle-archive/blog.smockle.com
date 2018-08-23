@@ -10,7 +10,7 @@ As I edit Markdown files in Ulysses, Dropbox notifies an AWS API Gateway. A chai
 
 ---
 
-¹ One who has grown tired of receiving status updates every time I surmount a technical hurdle
+¹ One who has grown tired of receiving status updates each time I surmount a technical hurdle
 
 ² Using a `CNAME` record instead of an `A` record, adding Let’s Encrypt to the `CAA` record, etc.
 
