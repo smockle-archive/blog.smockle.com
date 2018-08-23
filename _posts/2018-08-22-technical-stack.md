@@ -2,7 +2,7 @@
 title: Technical Stack
 ---
 
-At a friend’s request[^1](), here is a summary of this blog’s technical stack.
+At a friend’s request[^1]()¹, here is a summary of this blog’s technical stack.
 
 This blog is hosted on GitHub Pages. Jekyll transforms Markdown files into a static website. An AWS CloudFront distribution provides HTTPS support as, unaffected by DNS record edits², GitHub Pages will not serve content over HTTPS³.
 
@@ -10,7 +10,7 @@ As I edit Markdown files in Ulysses, Dropbox notifies an AWS API Gateway. A chai
 
 ---
 
-^1: \<small\>One who had grown tired of receiving status updates every time I surmounted a technical hurdle\</small\>
+¹ \<small\>One who had grown tired of receiving status updates every time I surmounted a technical hurdle\</small\>
 
 ² Using a `CNAME` record instead of an `A` record, adding Let’s Encrypt to the `CAA` record, etc.
 
