@@ -13,7 +13,7 @@ As I edit Markdown files in Ulysses, Dropbox notifies an AWS API Gateway. A chai
 
 ² Using a `CNAME` record instead of an `A` record, adding Let’s Encrypt to the `CAA` record, etc.
 
-³ ”Unavailable for your site because your domain is not properly configured to support HTTPS”
+³ “Unavailable for your site because your domain is not properly configured to support HTTPS”
 
 ⁴ [smockle/dropblog][1]
 
