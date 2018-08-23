@@ -4,7 +4,7 @@ title: Technical Stack
 
 At a friend’s request¹, here is a summary of this blog’s technical stack:
 
-This blog is hosted on GitHub Pages. Jekyll transforms Markdown files into this static website. An AWS CloudFront distribution provides HTTPS support as, unaffected by DNS record edits², GitHub Pages will not serve content over HTTPS³.
+This blog is hosted on GitHub Pages. Jekyll transforms Markdown files into a static website. An AWS CloudFront distribution provides HTTPS support as, unaffected by DNS record edits², GitHub Pages will not serve content over HTTPS³.
 
 As I edit Markdown files in Ulysses, Dropbox notifies an AWS API Gateway. A chain of AWS Lambda functions syncs updates from Dropbox to the GitHub Pages repository⁴. The required resources are described by an AWS CloudFormation template, in spite of limitations⁵.
 
