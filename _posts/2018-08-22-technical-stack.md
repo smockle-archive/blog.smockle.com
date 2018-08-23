@@ -10,7 +10,7 @@ As I edit Markdown files in Ulysses, Dropbox notifies an AWS API Gateway. A chai
 
 ---
 
-[^1]()\<small\>One who had grown tired of receiving status updates every time I surmounted a technical hurdle\</small\>
+[^1](): \<small\>One who had grown tired of receiving status updates every time I surmounted a technical hurdle\</small\>
 
 ² Using a `CNAME` record instead of an `A` record, adding Let’s Encrypt to the `CAA` record, etc.
 
