@@ -2,7 +2,7 @@
 title: Technical Stack
 ---
 
-At a friend’s request¹, here is a summary of this blog’s technical stack.
+At a friend’s request¹, here is an overview of this blog’s technical stack.
 
 This blog is hosted on GitHub Pages. Jekyll transforms Markdown files into a static website. An AWS CloudFront distribution provides HTTPS support as, unaffected by DNS record edits², GitHub Pages will not serve content over HTTPS³.
 
