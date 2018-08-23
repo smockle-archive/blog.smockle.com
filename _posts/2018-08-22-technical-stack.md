@@ -10,19 +10,19 @@ As I edit Markdown files in Ulysses, Dropbox notifies an AWS API Gateway. A chai
 
 ---
 
-^1: \<small\>One who had grown tired of receiving status updates every time I surmounted a technical hurdle\</small\>
+[^1](): \<small\>One who had grown tired of receiving status updates every time I surmounted a technical hurdle\</small\>
 
 ² Using a `CNAME` record instead of an `A` record, adding Let’s Encrypt to the `CAA` record, etc.
 
 ³ “Unavailable for your site because your domain is not properly configured to support HTTPS”
 
-⁴ [smockle/dropblog][2]
+⁴ [smockle/dropblog][3]
 
 ⁵ For example:
-* External Swagger files don’t support stage variables or pseudo parameters: [awslabs/serverless-application-model#345][3]
-* S3-Lambda permissions and policies that reference S3 bucket names are mutually-exclusive, [unable-validate-circular-dependency-cloudformation][4] notwithstanding
+* External Swagger files don’t support stage variables or pseudo parameters: [awslabs/serverless-application-model#345][4]
+* S3-Lambda permissions and policies that reference S3 bucket names are mutually-exclusive, [unable-validate-circular-dependency-cloudformation][5] notwithstanding
 * Neither `Fn::GetAtt` nor `Ref` return ARNs for all resources
 
-[2]:	https://github.com/smockle/dropblog
-[3]:	https://github.com/awslabs/serverless-application-model/issues/345
-[4]:	https://aws.amazon.com/premiumsupport/knowledge-center/unable-validate-circular-dependency-cloudformation/
+[3]:	https://github.com/smockle/dropblog
+[4]:	https://github.com/awslabs/serverless-application-model/issues/345
+[5]:	https://aws.amazon.com/premiumsupport/knowledge-center/unable-validate-circular-dependency-cloudformation/
