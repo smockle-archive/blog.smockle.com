@@ -30,7 +30,7 @@ blockquote {
   margin-bottom: calc(var(--margin) / 2);
 }
 
-@import "normalize.css";
+@import "normalize";
 
 :root {
   --font-size-hint: calc(var(--font-size) * 0.9);
