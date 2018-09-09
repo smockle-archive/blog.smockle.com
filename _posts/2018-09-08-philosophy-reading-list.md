@@ -43,7 +43,7 @@ Here is the result:
 * **Kant**, [_Groundwork of the Metaphysics of Morals_][25], eds. Gregor, Timmermann, Korsgaard
 * **Hegel**, [_Phenomenology of Spirit_][26], eds. Miller, Findlay
 * **Mill**, [_Utilitarianism_][27], ed. Sher
-* **Mill**, _On Liberty_, ed. Rapaport
+* **Mill**, [_On Liberty_][28], ed. Rapaport
 
 ## Contemporary Philosophy
 * **Marx**, _Marx: Selected Writings_, ed. Simon: _“The German Ideology I”_, _“The Communist Manifesto”_, _“Wage-Labour and Capital”_
@@ -81,3 +81,4 @@ Here is the result:
 [25]:	https://www.amazon.com/Kant-Groundwork-Metaphysics-Cambridge-Philosophy/dp/1107401062/ref=sr_1_1
 [26]:	https://www.amazon.com/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/ref=sr_1_1
 [27]:	https://www.amazon.com/Utilitarianism-John-Stuart-Mill/dp/087220605X/ref=sr_1_1
+[28]:	https://www.amazon.com/Liberty-Classics-John-Stuart-Mill/dp/0915144433/ref=sr_1_1
