@@ -40,7 +40,7 @@ Here is the result:
 * **Hume**, [_A Treatise of Human Nature_][22], eds. Norton, Norton: _ Book I 1, 3_
 * **Rousseau**, [_Discourse on the Origin of Inequality_][23], eds. Cress, Miller
 * **Kant**, [_Critique of Pure Reason_][24], eds. Guyer, Wood
-* **Kant**, _Groundwork of the Metaphysics of Morals_, eds. Gregor, Timmermann, Korsgaard
+* **Kant**, [_Groundwork of the Metaphysics of Morals_][25], eds. Gregor, Timmermann, Korsgaard
 * **Hegel**, _Phenomenology of Spirit_, eds. Miller, Findlay
 * **Mill**, _Utilitarianism_, ed. Sher
 * **Mill**, _On Liberty_, ed. Rapaport
@@ -78,3 +78,4 @@ Here is the result:
 [22]:	https://www.amazon.com/Treatise-Human-Nature-Oxford-Philosophical/dp/0198751729/ref=sr_1_1
 [23]:	https://www.amazon.com/Discourse-Origin-Inequality-Hackett-Classics/dp/0872201503/ref=sr_1_1
 [24]:	https://www.amazon.com/Critique-Reason-Cambridge-Works-Immanuel/dp/0521657296/ref=sr_1_1
+[25]:	https://www.amazon.com/Kant-Groundwork-Metaphysics-Cambridge-Philosophy/dp/1107401062/ref=sr_1_1
