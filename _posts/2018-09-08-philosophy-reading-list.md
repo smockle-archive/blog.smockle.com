@@ -35,7 +35,7 @@ Here is the result:
 * **Spinoza** [_Ethics_][17], eds. Feldman, Shirley: _Book I, Book II_
 * **Leibniz**, [_Leibniz: Philosophical Essays_][18], eds. Ariew, Garber: _“Monadology”_
 * **Locke**, [_An Essay Concerning Human Understanding_][19], ed. Winkler: _Book I 1, Book II, 1–13, 19–27, 31–33_
-* **Locke**, _Second Treatise of Government_, ed. Macpherson
+* **Locke**, [_Second Treatise of Government_][20], ed. Macpherson
 * **Berkeley**, _A Treatise Concerning the Principles of Human Knowledge_, ed. Winkler
 * **Hume**, _A Treatise of Human Nature_, eds. Norton, Norton: _ Book I 1, 3_
 * **Rousseau**, _Discourse on the Origin of Inequality_, eds. Cress, Miller
@@ -73,3 +73,4 @@ Here is the result:
 [17]:	https://www.amazon.com/Ethics-Treatise-Emendation-Intellect-Selected/dp/0872201309/ref=sr_1_1
 [18]:	https://www.amazon.com/Leibniz-Philosophical-Essays-Hackett-Classics/dp/0872200620/ref=sr_1_1
 [19]:	https://www.amazon.com/Essay-Concerning-Understanding-Hackett-Classics/dp/087220216X/ref=sr_1_1
+[20]:	https://www.amazon.com/Second-Treatise-Government-Hackett-Classics/dp/0915144867/ref=sr_1_1
