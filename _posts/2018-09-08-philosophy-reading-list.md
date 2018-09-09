@@ -26,7 +26,7 @@ Here is the result:
 * **Augustine**, [_On Free Choice of the Will_][11], ed. Williams
 * **Aquinas*, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
 * **Aquinas**, [_On Being and Essence_][12], ed. Maurer
-* **Averroes**, _Philosophy in the Middle Ages_, eds. Hyman, Walsh, Williams
+* **Averroes**, [_Philosophy in the Middle Ages_][13], eds. Hyman, Walsh, Williams
 
 ## Modern Philosophy
 * **Machiavelli**, _The Prince_, 2nd ed., ed. Mansfield
@@ -66,3 +66,4 @@ Here is the result:
 [10]:	https://www.amazon.com/Confessions-Works-Saint-Augustine-Translation/dp/1565481542/ref=sr_1_1?ie=UTF8&qid=1536467762&sr=8-1&keywords=1565481542&dpID=514XXXPYBYL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch
 [11]:	https://www.amazon.com/Free-Choice-Will-Hackett-Classics/dp/0872201880/ref=sr_1_1
 [12]:	https://www.amazon.com/Being-Essence-Mediaeval-Sources-Translation/dp/0888442505/ref=sr_1_1
+[13]:	https://www.amazon.com/Philosophy-Middle-Ages-Christian-Traditions/dp/160384208X/ref=sr_1_1
