@@ -47,12 +47,12 @@ Here is the result:
 
 ## Contemporary Philosophy
 * **Marx**, _Marx: Selected Writings_, ed. Simon: _“The German Ideology I”_, _“The Communist Manifesto”_, _“Wage-Labour and Capital”_
-* **Nietzsche*, _Genealogy of Morals_, ed. Kaufmann
-* *Husserl*, _Logical Investigations_ or _Cartesian Meditations_
-* *Heidegger*, _Being and Time_, eds. Macquarrie, Robinson
-* *Wittgenstein*, _Philosophical Investigations_, eds. Hacker, Schulte
-* *Wittgenstein*, _Tractatus Logico-Philosophicus_, eds. Ogden, Russell
-* *Dewey*, _Experience and Nature_
+* **Nietzsche**, _Genealogy of Morals_, ed. Kaufmann
+* **Husserl**, _Logical Investigations_ or _Cartesian Meditations_
+* **Heidegger**, _Being and Time_, eds. Macquarrie, Robinson
+* **Wittgenstein**, _Philosophical Investigations_, eds. Hacker, Schulte
+* **Wittgenstein**, _Tractatus Logico-Philosophicus_, eds. Ogden, Russell
+* **Dewey**, _Experience and Nature_
 
 [1]:	https://www.bc.edu/content/dam/files/schools/cas_sites/philosophy/pdf/Master's%20Comprehensive%20Reading%20List.pdf
 [2]:	http://philosophy.cua.edu/res/docs/Approved-Reading-List-Editions.pdf
