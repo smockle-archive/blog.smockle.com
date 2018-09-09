@@ -42,7 +42,7 @@ Here is the result:
 * **Kant**, [_Critique of Pure Reason_][24], eds. Guyer, Wood
 * **Kant**, [_Groundwork of the Metaphysics of Morals_][25], eds. Gregor, Timmermann, Korsgaard
 * **Hegel**, [_Phenomenology of Spirit_][26], eds. Miller, Findlay
-* **Mill**, _Utilitarianism_, ed. Sher
+* **Mill**, [_Utilitarianism_][27], ed. Sher
 * **Mill**, _On Liberty_, ed. Rapaport
 
 ## Contemporary Philosophy
@@ -80,3 +80,4 @@ Here is the result:
 [24]:	https://www.amazon.com/Critique-Reason-Cambridge-Works-Immanuel/dp/0521657296/ref=sr_1_1
 [25]:	https://www.amazon.com/Kant-Groundwork-Metaphysics-Cambridge-Philosophy/dp/1107401062/ref=sr_1_1
 [26]:	https://www.amazon.com/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/ref=sr_1_1
+[27]:	https://www.amazon.com/Utilitarianism-John-Stuart-Mill/dp/087220605X/ref=sr_1_1
