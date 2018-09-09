@@ -29,9 +29,9 @@ Here is the result:
 * **Averroes**, _Philosophy in the Middle Ages_, eds. Hyman, Walsh, Williams
 
 ## Modern Philosophy
-* *Machiavelli*, _The Prince_, 2nd ed., ed. Mansfield
-* *Hobbes*, _Leviathan_, ed. Curley: _Book I, Book II_
-* *Decartes*, _Discourse on Method and Meditations on First Philosophy_, 4th ed., ed. Cress
+* **Machiavelli**, _The Prince_, 2nd ed., ed. Mansfield
+* **Hobbes**, _Leviathan_, ed. Curley: _Book I, Book II_
+* **Decartes**, _Discourse on Method and Meditations on First Philosophy_, 4th ed., ed. Cress
 * *Spinoza* _Ethics_, eds. Feldman, Shirley: _Book I, Book II_
 * *Leibniz*, _Leibniz: Philosophical Essays_, eds. Ariew, Garber: _“Monadology”_
 * *Locke*, _An Essay Concerning Human Understanding_, ed. Winkler: _Book I 1, Book II, 1–13, 19–27, 31–33_
