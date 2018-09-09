@@ -46,7 +46,7 @@ Here is the result:
 * **Mill**, [_On Liberty_][28], ed. Rapaport
 
 ## Contemporary Philosophy
-* **Marx**, _Marx: Selected Writings_, ed. Simon: _“The German Ideology I”_, _“The Communist Manifesto”_, _“Wage-Labour and Capital”_
+* **Marx**, [_Marx: Selected Writings_][29], ed. Simon: _“The German Ideology I”_, _“The Communist Manifesto”_, _“Wage-Labour and Capital”_
 * **Nietzsche**, _Genealogy of Morals_, ed. Kaufmann
 * **Husserl**, _Logical Investigations_ or _Cartesian Meditations_
 * **Heidegger**, _Being and Time_, eds. Macquarrie, Robinson
@@ -82,3 +82,4 @@ Here is the result:
 [26]:	https://www.amazon.com/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/ref=sr_1_1
 [27]:	https://www.amazon.com/Utilitarianism-John-Stuart-Mill/dp/087220605X/ref=sr_1_1
 [28]:	https://www.amazon.com/Liberty-Classics-John-Stuart-Mill/dp/0915144433/ref=sr_1_1
+[29]:	https://www.amazon.com/Marx-Selected-Writings-Hackett-Classics/dp/0872202186/ref=sr_1_1
