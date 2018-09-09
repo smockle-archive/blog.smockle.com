@@ -39,7 +39,7 @@ Here is the result:
 * **Berkeley**, [_A Treatise Concerning the Principles of Human Knowledge_][21], ed. Winkler
 * **Hume**, [_A Treatise of Human Nature_][22], eds. Norton, Norton: _ Book I 1, 3_
 * **Rousseau**, [_Discourse on the Origin of Inequality_][23], eds. Cress, Miller
-* **Kant**, _Critique of Pure Reason_, eds. Guyer, Wood
+* **Kant**, [_Critique of Pure Reason_][24], eds. Guyer, Wood
 * **Kant**, _Groundwork of the Metaphysics of Morals_, eds. Gregor, Timmermann, Korsgaard
 * **Hegel**, _Phenomenology of Spirit_, eds. Miller, Findlay
 * **Mill**, _Utilitarianism_, ed. Sher
@@ -77,3 +77,4 @@ Here is the result:
 [21]:	https://www.amazon.com/Treatise-Concerning-Principles-Knowledge-Classics/dp/0915145391/ref=sr_1_1
 [22]:	https://www.amazon.com/Treatise-Human-Nature-Oxford-Philosophical/dp/0198751729/ref=sr_1_1
 [23]:	https://www.amazon.com/Discourse-Origin-Inequality-Hackett-Classics/dp/0872201503/ref=sr_1_1
+[24]:	https://www.amazon.com/Critique-Reason-Cambridge-Works-Immanuel/dp/0521657296/ref=sr_1_1
