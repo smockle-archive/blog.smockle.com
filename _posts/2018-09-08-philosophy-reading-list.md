@@ -50,7 +50,7 @@ Here is the result:
 * **Nietzsche**, [_Genealogy of Morals_][30], ed. Kaufmann
 * **Husserl**, _Logical Investigations_ or _Cartesian Meditations_
 * **Heidegger**, [_Being and Time_][31], eds. Macquarrie, Robinson
-* **Wittgenstein**, _Philosophical Investigations_, eds. Hacker, Schulte
+* **Wittgenstein**, [_Philosophical Investigations_][32], eds. Hacker, Schulte
 * **Wittgenstein**, _Tractatus Logico-Philosophicus_, eds. Ogden, Russell
 * **Dewey**, _Experience and Nature_
 
@@ -85,3 +85,4 @@ Here is the result:
 [29]:	https://www.amazon.com/Marx-Selected-Writings-Hackett-Classics/dp/0872202186/ref=sr_1_1
 [30]:	https://www.amazon.com/Genealogy-Morals-Ecce-Homo/dp/0679724621/ref=sr_1_1
 [31]:	https://www.amazon.com/Being-Harper-Perennial-Modern-Thought/dp/0061575593/ref=sr_1_1
+[32]:	https://www.amazon.com/Philosophical-Investigations-Ludwig-Wittgenstein/dp/1405159286/ref=sr_1_1
