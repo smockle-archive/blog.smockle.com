@@ -5,10 +5,10 @@ title: Philosophy Reading List
 I’m studying ideas and behaviors that have persisted throughout history. For the next two years, I’m perusing classic works of philosophy.
 
 To decide where to start, I collated reading lists from four university philosophy departments:
-- [_Boston College_][1]
-- [_Catholic University of America_][2]
-- [_Marquette University_][3]
-- [_University of Dallas_][4]
+- [Boston College][1]
+- [Catholic University of America][2]
+- [Marquette University][3]
+- [University of Dallas][4]
 
 I retained selections and editions that appeared in multiple lists, then filtered by affordability and availability of contemporary translations.
 
