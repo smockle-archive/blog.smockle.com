@@ -22,7 +22,7 @@ Here is the result:
 * **Epicurus, Skeptics, Stoics**, [_Hellenistic Philosophy_][9], eds. Inwood, Gerson: _“Fragments and testimonia of Epicurus”_, _“Sceptical texts and testimonia”_, _“Stoic fragments and testimonia”_
 
 ## Medieval Philosophy
-* **Augustine**, _The Confessions_, ed. Boulding: _Books 6–12_
+* **Augustine**, [_The Confessions_][10], ed. Boulding: _Books 6–12_
 * **Augustine**, _On Free Choice of the Will_, ed. Williams
 * **Aquinas*, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
 * **Aquinas**, _On Being and Essence_, ed. Maurer
@@ -63,3 +63,4 @@ Here is the result:
 [7]:	https://www.amazon.com/Basic-Aristotle-Modern-Library-Classics/dp/0375757996/ref=sr_1_1
 [8]:	https://www.amazon.com/Essential-Plotinus-Hackett-Classics/dp/0915144093/ref=sr_1_1
 [9]:	https://www.amazon.com/Hellenistic-Philosophy-Hackett-Classics-Inwood/dp/0872203786/ref=sr_1_1
+[10]:	https://www.amazon.com/Confessions-Works-Saint-Augustine-Translation/dp/1565481542/ref=sr_1_1?ie=UTF8&qid=1536467762&sr=8-1&keywords=1565481542&dpID=514XXXPYBYL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch
