@@ -23,7 +23,7 @@ Here is the result:
 
 ## Medieval Philosophy
 * **Augustine**, [_The Confessions_][10], ed. Boulding: _Books 6–12_
-* **Augustine**, _On Free Choice of the Will_, ed. Williams
+* **Augustine**, [_On Free Choice of the Will_][11], ed. Williams
 * **Aquinas*, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
 * **Aquinas**, _On Being and Essence_, ed. Maurer
 * **Averroes**, _Philosophy in the Middle Ages_, eds. Hyman, Walsh, Williams
@@ -64,3 +64,4 @@ Here is the result:
 [8]:	https://www.amazon.com/Essential-Plotinus-Hackett-Classics/dp/0915144093/ref=sr_1_1
 [9]:	https://www.amazon.com/Hellenistic-Philosophy-Hackett-Classics-Inwood/dp/0872203786/ref=sr_1_1
 [10]:	https://www.amazon.com/Confessions-Works-Saint-Augustine-Translation/dp/1565481542/ref=sr_1_1?ie=UTF8&qid=1536467762&sr=8-1&keywords=1565481542&dpID=514XXXPYBYL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch
+[11]:	https://www.amazon.com/Free-Choice-Will-Hackett-Classics/dp/0872201880/ref=sr_1_1
