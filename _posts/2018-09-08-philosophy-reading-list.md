@@ -51,7 +51,7 @@ Here is the result:
 * **Husserl**, _Logical Investigations_ or _Cartesian Meditations_
 * **Heidegger**, [_Being and Time_][31], eds. Macquarrie, Robinson
 * **Wittgenstein**, [_Philosophical Investigations_][32], eds. Hacker, Schulte
-* **Wittgenstein**, _Tractatus Logico-Philosophicus_, eds. Ogden, Russell
+* **Wittgenstein**, [_Tractatus Logico-Philosophicus_][33], eds. Ogden, Russell
 * **Dewey**, _Experience and Nature_
 
 [1]:	https://www.bc.edu/content/dam/files/schools/cas_sites/philosophy/pdf/Master's%20Comprehensive%20Reading%20List.pdf
@@ -86,3 +86,4 @@ Here is the result:
 [30]:	https://www.amazon.com/Genealogy-Morals-Ecce-Homo/dp/0679724621/ref=sr_1_1
 [31]:	https://www.amazon.com/Being-Harper-Perennial-Modern-Thought/dp/0061575593/ref=sr_1_1
 [32]:	https://www.amazon.com/Philosophical-Investigations-Ludwig-Wittgenstein/dp/1405159286/ref=sr_1_1
+[33]:	https://www.amazon.com/Tractatus-Logico-Philosophicus-Ludwig-Wittgenstein/dp/0486404455/ref=sr_1_1
