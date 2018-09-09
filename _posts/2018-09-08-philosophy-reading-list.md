@@ -49,7 +49,7 @@ Here is the result:
 * **Marx**, [_Marx: Selected Writings_][29], ed. Simon: _“The German Ideology I”_, _“The Communist Manifesto”_, _“Wage-Labour and Capital”_
 * **Nietzsche**, [_Genealogy of Morals_][30], ed. Kaufmann
 * **Husserl**, _Logical Investigations_ or _Cartesian Meditations_
-* **Heidegger**, _Being and Time_, eds. Macquarrie, Robinson
+* **Heidegger**, [_Being and Time_][31], eds. Macquarrie, Robinson
 * **Wittgenstein**, _Philosophical Investigations_, eds. Hacker, Schulte
 * **Wittgenstein**, _Tractatus Logico-Philosophicus_, eds. Ogden, Russell
 * **Dewey**, _Experience and Nature_
@@ -84,3 +84,4 @@ Here is the result:
 [28]:	https://www.amazon.com/Liberty-Classics-John-Stuart-Mill/dp/0915144433/ref=sr_1_1
 [29]:	https://www.amazon.com/Marx-Selected-Writings-Hackett-Classics/dp/0872202186/ref=sr_1_1
 [30]:	https://www.amazon.com/Genealogy-Morals-Ecce-Homo/dp/0679724621/ref=sr_1_1
+[31]:	https://www.amazon.com/Being-Harper-Perennial-Modern-Thought/dp/0061575593/ref=sr_1_1
