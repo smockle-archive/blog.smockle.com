@@ -39,11 +39,11 @@ Here is the result:
 * **Berkeley**, _A Treatise Concerning the Principles of Human Knowledge_, ed. Winkler
 * **Hume**, _A Treatise of Human Nature_, eds. Norton, Norton: _ Book I 1, 3_
 * **Rousseau**, _Discourse on the Origin of Inequality_, eds. Cress, Miller
-* *Kant*, _Critique of Pure Reason_, eds. Guyer, Wood
-* *Kant*, _Groundwork of the Metaphysics of Morals_, eds. Gregor, Timmermann, Korsgaard
-* *Hegel*, _Phenomenology of Spirit_, eds. Miller, Findlay
-* *Mill*, _Utilitarianism_, ed. Sher
-* *Mill*, _On Liberty_, ed. Rapaport
+* **Kant**, _Critique of Pure Reason_, eds. Guyer, Wood
+* **Kant**, _Groundwork of the Metaphysics of Morals_, eds. Gregor, Timmermann, Korsgaard
+* **Hegel**, _Phenomenology of Spirit_, eds. Miller, Findlay
+* **Mill**, _Utilitarianism_, ed. Sher
+* **Mill**, _On Liberty_, ed. Rapaport
 
 ## Contemporary Philosophy
 * *Marx*, _Marx: Selected Writings_, ed. Simon: _“The German Ideology I”_, _“The Communist Manifesto”_, _“Wage-Labour and Capital”_
