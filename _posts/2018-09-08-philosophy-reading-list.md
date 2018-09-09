@@ -31,7 +31,7 @@ Here is the result:
 ## Modern Philosophy
 * **Machiavelli**, [_The Prince_][14], 2nd ed., ed. Mansfield
 * **Hobbes**, [_Leviathan_][15], ed. Curley: _Book I, Book II_
-* **Decartes**, _Discourse on Method and Meditations on First Philosophy_, 4th ed., ed. Cress
+* **Decartes**, [_Discourse on Method and Meditations on First Philosophy_][16], 4th ed., ed. Cress
 * **Spinoza** _Ethics_, eds. Feldman, Shirley: _Book I, Book II_
 * **Leibniz**, _Leibniz: Philosophical Essays_, eds. Ariew, Garber: _“Monadology”_
 * **Locke**, _An Essay Concerning Human Understanding_, ed. Winkler: _Book I 1, Book II, 1–13, 19–27, 31–33_
@@ -69,3 +69,4 @@ Here is the result:
 [13]:	https://www.amazon.com/Philosophy-Middle-Ages-Christian-Traditions/dp/160384208X/ref=sr_1_1
 [14]:	https://www.amazon.com/Prince-Second-Niccolo-Machiavelli/dp/0226500438/ref=sr_1_1
 [15]:	https://www.amazon.com/Leviathan-selected-variants-Hackett-Classics/dp/0872201775/ref=sr_1_1
+[16]:	https://www.amazon.com/Discourse-Method-Meditations-First-Philosophy/dp/0872204200/ref=sr_1_1
