@@ -32,7 +32,7 @@ Here is the result:
 * **Machiavelli**, [_The Prince_][14], 2nd ed., ed. Mansfield
 * **Hobbes**, [_Leviathan_][15], ed. Curley: _Book I, Book II_
 * **Decartes**, [_Discourse on Method and Meditations on First Philosophy_][16], 4th ed., ed. Cress
-* **Spinoza** _Ethics_, eds. Feldman, Shirley: _Book I, Book II_
+* **Spinoza** [_Ethics_][17], eds. Feldman, Shirley: _Book I, Book II_
 * **Leibniz**, _Leibniz: Philosophical Essays_, eds. Ariew, Garber: _“Monadology”_
 * **Locke**, _An Essay Concerning Human Understanding_, ed. Winkler: _Book I 1, Book II, 1–13, 19–27, 31–33_
 * **Locke**, _Second Treatise of Government_, ed. Macpherson
@@ -70,3 +70,4 @@ Here is the result:
 [14]:	https://www.amazon.com/Prince-Second-Niccolo-Machiavelli/dp/0226500438/ref=sr_1_1
 [15]:	https://www.amazon.com/Leviathan-selected-variants-Hackett-Classics/dp/0872201775/ref=sr_1_1
 [16]:	https://www.amazon.com/Discourse-Method-Meditations-First-Philosophy/dp/0872204200/ref=sr_1_1
+[17]:	https://www.amazon.com/Ethics-Treatise-Emendation-Intellect-Selected/dp/0872201309/ref=sr_1_1?ie=UTF8&qid=1536467988&sr=8-1&keywords=0872201309&dpID=415Yw%252Bvz8nL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch
