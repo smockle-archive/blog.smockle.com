@@ -38,7 +38,7 @@ Here is the result:
 * **Locke**, [_Second Treatise of Government_][20], ed. Macpherson
 * **Berkeley**, [_A Treatise Concerning the Principles of Human Knowledge_][21], ed. Winkler
 * **Hume**, [_A Treatise of Human Nature_][22], eds. Norton, Norton: _ Book I 1, 3_
-* **Rousseau**, _Discourse on the Origin of Inequality_, eds. Cress, Miller
+* **Rousseau**, [_Discourse on the Origin of Inequality_][23], eds. Cress, Miller
 * **Kant**, _Critique of Pure Reason_, eds. Guyer, Wood
 * **Kant**, _Groundwork of the Metaphysics of Morals_, eds. Gregor, Timmermann, Korsgaard
 * **Hegel**, _Phenomenology of Spirit_, eds. Miller, Findlay
@@ -76,3 +76,4 @@ Here is the result:
 [20]:	https://www.amazon.com/Second-Treatise-Government-Hackett-Classics/dp/0915144867/ref=sr_1_1
 [21]:	https://www.amazon.com/Treatise-Concerning-Principles-Knowledge-Classics/dp/0915145391/ref=sr_1_1
 [22]:	https://www.amazon.com/Treatise-Human-Nature-Oxford-Philosophical/dp/0198751729/ref=sr_1_1
+[23]:	https://www.amazon.com/Discourse-Origin-Inequality-Hackett-Classics/dp/0872201503/ref=sr_1_1
