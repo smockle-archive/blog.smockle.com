@@ -26,7 +26,7 @@ Here is the result:
 * **Augustine**, _On Free Choice of the Will_, ed. Williams
 * **Aquinas*, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
 * **Aquinas**, _On Being and Essence_, ed. Maurer
-* *Averroes*, _Philosophy in the Middle Ages_, eds. Hyman, Walsh, Williams
+* **Averroes**, _Philosophy in the Middle Ages_, eds. Hyman, Walsh, Williams
 
 ## Modern Philosophy
 * *Machiavelli*, _The Prince_, 2nd ed., ed. Mansfield
