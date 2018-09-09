@@ -22,9 +22,9 @@ Here is the result:
 * **Epicurus, Skeptics, Stoics**, _Hellenistic Philosophy_, eds. Inwood, Gerson: _“Fragments and testimonia of Epicurus”_, _“Sceptical texts and testimonia”_, _“Stoic fragments and testimonia”_
 
 ## Medieval Philosophy
-* *Augustine*, _The Confessions_, ed. Boulding: _Books 6–12_
-* *Augustine*, _On Free Choice of the Will_, ed. Williams
-* *Aquinas*, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
+* **Augustine**, _The Confessions_, ed. Boulding: _Books 6–12_
+* **Augustine**, _On Free Choice of the Will_, ed. Williams
+* **Aquinas*, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
 * *Aquinas*, _On Being and Essence_, ed. Maurer
 * *Averroes*, _Philosophy in the Middle Ages_, eds. Hyman, Walsh, Williams
 
