@@ -25,7 +25,7 @@ Here is the result:
 * **Augustine**, _The Confessions_, ed. Boulding: _Books 6–12_
 * **Augustine**, _On Free Choice of the Will_, ed. Williams
 * **Aquinas*, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
-* *Aquinas*, _On Being and Essence_, ed. Maurer
+* **Aquinas**, _On Being and Essence_, ed. Maurer
 * *Averroes*, _Philosophy in the Middle Ages_, eds. Hyman, Walsh, Williams
 
 ## Modern Philosophy
