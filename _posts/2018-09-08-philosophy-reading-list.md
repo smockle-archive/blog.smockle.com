@@ -52,7 +52,7 @@ Here is the result:
 * **Heidegger**, [_Being and Time_][31], eds. Macquarrie, Robinson
 * **Wittgenstein**, [_Philosophical Investigations_][32], eds. Hacker, Schulte
 * **Wittgenstein**, [_Tractatus Logico-Philosophicus_][33], eds. Ogden, Russell
-* **Dewey**, _Experience and Nature_
+* **Dewey**, [_Experience and Nature_][34]
 
 [1]:	https://www.bc.edu/content/dam/files/schools/cas_sites/philosophy/pdf/Master's%20Comprehensive%20Reading%20List.pdf
 [2]:	http://philosophy.cua.edu/res/docs/Approved-Reading-List-Editions.pdf
@@ -87,3 +87,4 @@ Here is the result:
 [31]:	https://www.amazon.com/Being-Harper-Perennial-Modern-Thought/dp/0061575593/ref=sr_1_1
 [32]:	https://www.amazon.com/Philosophical-Investigations-Ludwig-Wittgenstein/dp/1405159286/ref=sr_1_1
 [33]:	https://www.amazon.com/Tractatus-Logico-Philosophicus-Ludwig-Wittgenstein/dp/0486404455/ref=sr_1_1
+[34]:	https://www.amazon.com/Experience-Nature-John-Dewey/dp/0486204715/ref=sr_1_1
