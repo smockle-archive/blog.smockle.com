@@ -10,7 +10,7 @@
 
 ## SPDX-License-Identifier: CC-BY-4.0
 
-- Content in [**`_posts`**](_posts) is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE-CC-BY-4.0) ([https://creativecommons.org/licenses/by/4.0/legalcode.txt](https://creativecommons.org/licenses/by/4.0/legalcode.txt)).
+- Content in [**`_posts`**](_posts) is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE-CC-BY-4.0) ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)).
 
 ## All Rights Reserved
 
