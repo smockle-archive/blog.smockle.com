@@ -24,7 +24,7 @@ Here is the result:
 ## Medieval Philosophy
 * **Augustine**, [_The Confessions_][10], ed. Boulding: _Books 6–12_
 * **Augustine**, [_On Free Choice of the Will_][11], ed. Williams
-* **Aquinas*, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
+* **Aquinas**, _Summa Theologica_: _Book I 1–13, Book II 1–5, 90–98, 100_
 * **Aquinas**, [_On Being and Essence_][12], ed. Maurer
 * **Averroes**, [_Philosophy in the Middle Ages_][13], eds. Hyman, Walsh, Williams
 
