@@ -29,7 +29,7 @@ Here is the result:
 * **Averroes**, [_Philosophy in the Middle Ages_][13], eds. Hyman, Walsh, Williams
 
 ## Modern Philosophy
-* **Machiavelli**, _The Prince_, 2nd ed., ed. Mansfield
+* **Machiavelli**, [_The Prince_][14], 2nd ed., ed. Mansfield
 * **Hobbes**, _Leviathan_, ed. Curley: _Book I, Book II_
 * **Decartes**, _Discourse on Method and Meditations on First Philosophy_, 4th ed., ed. Cress
 * **Spinoza** _Ethics_, eds. Feldman, Shirley: _Book I, Book II_
@@ -67,3 +67,4 @@ Here is the result:
 [11]:	https://www.amazon.com/Free-Choice-Will-Hackett-Classics/dp/0872201880/ref=sr_1_1
 [12]:	https://www.amazon.com/Being-Essence-Mediaeval-Sources-Translation/dp/0888442505/ref=sr_1_1
 [13]:	https://www.amazon.com/Philosophy-Middle-Ages-Christian-Traditions/dp/160384208X/ref=sr_1_1
+[14]:	https://www.amazon.com/Prince-Second-Niccolo-Machiavelli/dp/0226500438/ref=sr_1_1
