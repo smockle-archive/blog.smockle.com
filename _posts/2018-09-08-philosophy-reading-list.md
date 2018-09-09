@@ -32,13 +32,13 @@ Here is the result:
 * **Machiavelli**, _The Prince_, 2nd ed., ed. Mansfield
 * **Hobbes**, _Leviathan_, ed. Curley: _Book I, Book II_
 * **Decartes**, _Discourse on Method and Meditations on First Philosophy_, 4th ed., ed. Cress
-* *Spinoza* _Ethics_, eds. Feldman, Shirley: _Book I, Book II_
-* *Leibniz*, _Leibniz: Philosophical Essays_, eds. Ariew, Garber: _“Monadology”_
-* *Locke*, _An Essay Concerning Human Understanding_, ed. Winkler: _Book I 1, Book II, 1–13, 19–27, 31–33_
-* *Locke*, _Second Treatise of Government_, ed. Macpherson
-* *Berkeley*, _A Treatise Concerning the Principles of Human Knowledge_, ed. Winkler
-* *Hume*, _A Treatise of Human Nature_, eds. Norton, Norton: _ Book I 1, 3_
-* *Rousseau*, _Discourse on the Origin of Inequality_, eds. Cress, Miller
+* **Spinoza** _Ethics_, eds. Feldman, Shirley: _Book I, Book II_
+* **Leibniz**, _Leibniz: Philosophical Essays_, eds. Ariew, Garber: _“Monadology”_
+* **Locke**, _An Essay Concerning Human Understanding_, ed. Winkler: _Book I 1, Book II, 1–13, 19–27, 31–33_
+* **Locke**, _Second Treatise of Government_, ed. Macpherson
+* **Berkeley**, _A Treatise Concerning the Principles of Human Knowledge_, ed. Winkler
+* **Hume**, _A Treatise of Human Nature_, eds. Norton, Norton: _ Book I 1, 3_
+* **Rousseau**, _Discourse on the Origin of Inequality_, eds. Cress, Miller
 * *Kant*, _Critique of Pure Reason_, eds. Guyer, Wood
 * *Kant*, _Groundwork of the Metaphysics of Morals_, eds. Gregor, Timmermann, Korsgaard
 * *Hegel*, _Phenomenology of Spirit_, eds. Miller, Findlay
