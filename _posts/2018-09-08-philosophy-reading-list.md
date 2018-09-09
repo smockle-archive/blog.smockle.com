@@ -46,8 +46,8 @@ Here is the result:
 * **Mill**, _On Liberty_, ed. Rapaport
 
 ## Contemporary Philosophy
-* *Marx*, _Marx: Selected Writings_, ed. Simon: _“The German Ideology I”_, _“The Communist Manifesto”_, _“Wage-Labour and Capital”_
-* *Nietzsche*, _Genealogy of Morals_, ed. Kaufmann
+* **Marx**, _Marx: Selected Writings_, ed. Simon: _“The German Ideology I”_, _“The Communist Manifesto”_, _“Wage-Labour and Capital”_
+* **Nietzsche*, _Genealogy of Morals_, ed. Kaufmann
 * *Husserl*, _Logical Investigations_ or _Cartesian Meditations_
 * *Heidegger*, _Being and Time_, eds. Macquarrie, Robinson
 * *Wittgenstein*, _Philosophical Investigations_, eds. Hacker, Schulte
