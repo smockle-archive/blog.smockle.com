@@ -23,6 +23,8 @@ As I edit Markdown files in Ulysses, Dropbox notifies an AWS API Gateway. A chai
 * External Swagger files don’t support stage variables or pseudo parameters: [awslabs/serverless-application-model#345][2]
 * S3-Lambda permissions and policies that reference S3 bucket names are mutually-exclusive, [unable-validate-circular-dependency-cloudformation][3] notwithstanding
 * Neither `Fn::GetAtt` nor `Ref` return ARNs for all resources
+\</div\>
+{::options parse_block_html="false" /}
 
 [1]:	https://github.com/smockle/dropblog
 [2]:	https://github.com/awslabs/serverless-application-model/issues/345
