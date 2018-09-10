@@ -8,8 +8,11 @@ This blog is hosted on GitHub Pages. Jekyll transforms Markdown files into a sta
 
 As I edit Markdown files in Ulysses, Dropbox notifies an AWS API Gateway. A chain of AWS Lambda functions syncs updates from Dropbox to the GitHub Pages repository³. The required resources are described by an AWS CloudFormation template, in spite of limitations⁴.
 
----
+⁂
+{: .asterism}
 
+{::options parse_block_html="true" /}
+\<div class="footnotes"\>
 ¹ Using a `CNAME` record instead of an `A` record, adding Let’s Encrypt to the `CAA` record, etc.
 
 ² “Unavailable for your site because your domain is not properly configured to support HTTPS”
