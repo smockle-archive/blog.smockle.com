@@ -119,22 +119,6 @@ blockquote {
   margin: 0;
 }
 
-.footnotes p,
-.footnotes li {
-  font-size: var(--font-size-hint);
-}
-.footnotes p {
-  margin-top: calc(var(--margin) * 0.9);
-}
-.footnotes p:not(:last-of-type) {
-  margin-bottom: calc(var(--margin) * 0.9);
-}
-.footnotes pre,
-.footnotes code,
-.footnotes kbd {
-  font-size: 80%;
-}
-
 figure {
   margin-top: var(--margin);
   margin-left: 0;
@@ -174,15 +158,14 @@ table th, table td {
 mark { background-color: var(--color-highlight); }
 
 hr {
-  border: var(--border-radius);
-  border-bottom: var(--border-width) solid var(--color-white);
+  border: 0;
 }
-
-// ⁂
-.asterism {
+hr::before {
+  content: "⁂";
   color: var(--color-gray);
+  display: flex;
   font-size: var(--font-size-hint);
-  text-align: center
+  justify-content: center;
 }
 
 .wrapper {
