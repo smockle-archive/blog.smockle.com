@@ -32,10 +32,6 @@ blockquote {
 
 @import "normalize";
 
-:root {
-  --font-size-hint: calc(var(--font-size) * 0.9);
-}
-
 .post-content h1 { font-size: calc(var(--font-size) * 2); }
 .post-content h2 { font-size: calc(var(--font-size) * 1.66); }
 .post-content h3 { font-size: calc(var(--font-size) * 1.33); }
@@ -76,7 +72,7 @@ blockquote {
 
 .post-meta {
   color: var(--color-gray);
-  font-size: var(--font-size-hint);
+  font-size: calc(var(--font-size-hint) * 1.1);
   font-style: italic;
 }
 
