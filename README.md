@@ -1,5 +1,7 @@
 # blog.smockle.com
 
+[![Build Status](https://travis-ci.com/smockle/blog.smockle.com.svg?branch=master)](https://travis-ci.com/smockle/blog.smockle.com)
+
 ## Setup
 
 ```Bash
