@@ -9,7 +9,7 @@ blockquote {
   font-size: var(--font-size);
   letter-spacing: 0;
 }
-.highlighter-rouge .highlight { background-color: var(--color-white); }
+.highlighter-rouge .highlight { background-color: var(--color-background-alternate); }
 .wrapper.wrapper {
   padding-top: 0;
   padding-bottom: 0;
@@ -65,6 +65,10 @@ body {
 
 // Typography
 
+.site-header img[alt="logo"] {
+  filter: var(--filter-logo);
+}
+
 .site-header .wrapper {
   align-items: center;
   display: flex;
@@ -83,7 +87,7 @@ body {
 }
 
 .post-meta {
-  color: var(--color-gray);
+  color: var(--color-text-alternate);
   font-size: calc(var(--font-size-hint) * 1.1);
   font-style: italic;
 }
