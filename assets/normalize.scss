@@ -3,7 +3,7 @@
   --color-neutral-light1: #ddd; /* dark: text */
   --color-neutral: #757575; /* light & dark: text-alt */
   --color-neutral-dark1: #222; /* light: text */
-  --color-neutral-dark2: #070707; /* dark: bg-alt */
+  --color-neutral-dark2: #081010; /* dark: bg-alt */
 
   --color-green-light2: #e4f6f2; /* light: selection */
   --color-green-light1: #84dcc6; /* dark: accent-alt */
@@ -40,6 +40,8 @@
     --color-selection: var(--color-green-light2);
     --color-highlight: var(--color-yellow);
     --filter-logo: none;
+    --filter-profile: none;
+    --filter-icon: none;
   }
 }
 
@@ -54,6 +56,8 @@
     --color-selection: var(--color-green-dark2);
     --color-highlight: var(--color-yellow-dark1);
     --filter-logo: saturate(1000%) hue-rotate(-15deg) brightness(0.55);
+    --filter-profile: brightness(0.9);
+    --filter-icon: brightness(3.25);
   }
 }
 
