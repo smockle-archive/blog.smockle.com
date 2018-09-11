@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+  - 2.1
+notifications:
+  email:
+    on_success: change
+    on_failure: always
+script: "bundle exec jekyll build"
