@@ -19,6 +19,7 @@ blockquote {
   min-height: unset;
 }
 .page-content { padding: 0; }
+.post-content { margin: 0; }
 .site-footer {
   border: 0;
   padding: 0;
@@ -37,30 +38,41 @@ blockquote {
 .post-content h3 { font-size: calc(var(--font-size) * 1.33); }
 .post-content h4 { font-size: calc(var(--font-size) * 1.16); }
 
-.site-header {
-  margin-top: calc(var(--margin) * 3);
-  margin-bottom: calc(var(--margin) * 3);
+// Margins
+
+body {
+  box-sizing: border-box;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
+@media (min-width: 45em) {
+  body {
+    padding-top: calc(var(--margin) * 2);
+    padding-bottom: calc(var(--margin) * 2);
+  }
+}
+
+.site-header {
+  margin-bottom: calc(var(--margin) * 2);
+}
+
+.site-footer {
+  margin-top: calc(var(--margin) * 2);
+}
+
+.post-list { margin-top: calc(var(--margin) * -0.5); }
+.post-list li:not(:first-of-type) { margin-top: calc(var(--margin) * 1.5); }
+
+// Typography
 
 .site-header .wrapper {
   align-items: center;
   display: flex;
 }
 
-.site-footer {
-  margin-top: calc(var(--margin) * -1);
-  margin-bottom: calc(var(--margin) * 2);
-}
-
-.site-footer p {
-  color: var(--color-gray);
+.site-footer .post-meta {
   font-size: var(--font-size-hint);
-  font-style: italic;
-  text-align: center;
 }
-
-.post-list { margin-top: calc(var(--margin) * -0.5); }
-.post-list li:not(:first-of-type) { margin-top: calc(var(--margin) * 1.5); }
 
 .post-list .post-link {
   color: var(--color-text);
