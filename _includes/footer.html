@@ -7,9 +7,24 @@
       {%- if page.layout == "home" or page.layout == "post" -%}
       Licensed under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/legalcode">CC-BY-4.0</a>&#32;~&#32;
       {%- endif -%}
+      <a href="#" data-theme="dark" class="theme-toggle theme-toggle-dark">Dark</a>
+      <a href="#" data-theme="light" class="theme-toggle theme-toggle-light">Light</a>&#32;~&#32;
       <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
     </div>
     {%- endif -%}
   </div>
-
+  <script>
+    const toggleTheme = (event) => {
+      event.preventDefault();
+      const theme = event.target.getAttribute("data-theme");
+      document.body.setAttribute("data-theme", theme);
+      sessionStorage.setItem("theme", theme);
+    }
+    const theme = sessionStorage.getItem("theme");
+    if (theme) {
+      document.body.setAttribute("data-theme", theme);
+    }
+    const themeToggles = Array.from(document.querySelectorAll(".theme-toggle"));
+    themeToggles.forEach((themeToggle) => themeToggle.addEventListener("click", toggleTheme));
+  </script>
 </footer>

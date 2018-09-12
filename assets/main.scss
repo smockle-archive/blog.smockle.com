@@ -98,3 +98,13 @@ body {
   font-size: calc(var(--font-size) * 2);
   letter-spacing: 0;
 }
+
+// Themes
+
+body .site-footer .theme-toggle-dark,
+body[data-theme="light"] .site-footer .theme-toggle-dark { display: inline; }
+body[data-theme="dark"] .site-footer .theme-toggle-dark { display: none; }
+
+body .site-footer .theme-toggle-light,
+body[data-theme="light"] .site-footer .theme-toggle-light { display: none; }
+body[data-theme="dark"] .site-footer .theme-toggle-light { display: inline; }
