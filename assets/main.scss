@@ -33,6 +33,10 @@ blockquote {
 
 @import "normalize";
 
+body,
+body[data-theme="light"] { --filter-logo: none; }
+body[data-theme="dark"] { --filter-logo: saturate(1000%) hue-rotate(-15deg) brightness(0.55); }
+
 .post-content h1 { font-size: calc(var(--font-size) * 2); }
 .post-content h2 { font-size: calc(var(--font-size) * 1.66); }
 .post-content h3 { font-size: calc(var(--font-size) * 1.33); }
@@ -98,17 +102,3 @@ body {
   font-size: calc(var(--font-size) * 2);
   letter-spacing: 0;
 }
-
-// Themes
-
-body,
-body[data-theme="light"] { --filter-logo: none; }
-body[data-theme="dark"] { --filter-logo: saturate(1000%) hue-rotate(-15deg) brightness(0.55); }
-
-body .site-footer .theme-toggle-dark,
-body[data-theme="light"] .site-footer .theme-toggle-dark { display: inline; }
-body[data-theme="dark"] .site-footer .theme-toggle-dark { display: none; }
-
-body .site-footer .theme-toggle-light,
-body[data-theme="light"] .site-footer .theme-toggle-light { display: none; }
-body[data-theme="dark"] .site-footer .theme-toggle-light { display: inline; }
