@@ -101,6 +101,10 @@ body {
 
 // Themes
 
+body,
+body[data-theme="light"] { --filter-logo: none; }
+body[data-theme="dark"] { --filter-logo: saturate(1000%) hue-rotate(-15deg) brightness(0.55); }
+
 body .site-footer .theme-toggle-dark,
 body[data-theme="light"] .site-footer .theme-toggle-dark { display: inline; }
 body[data-theme="dark"] .site-footer .theme-toggle-dark { display: none; }
