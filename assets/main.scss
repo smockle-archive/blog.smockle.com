@@ -33,6 +33,10 @@ blockquote {
 
 @import "normalize";
 
+:root {
+  /* TODO: Remove these when 'prefers-color-scheme' has broader support */
+  --filter-logo: none;
+}
 @media (prefers-color-scheme: light) {
   :root {
     --filter-logo: none;
