@@ -12,3 +12,13 @@
 main .post-meta {
   margin-bottom: -0.75rem;
 }
+img:not(.logo) {
+  border: 0.25rem solid var(--color-text);
+  box-sizing: border-box;
+  display: block;
+  object-fit: cover;
+  margin-top: 1rem;
+  width: 100%;
+}
+@media (max-width: 50em) { img:not(.logo) { max-height: 200px; } }
+@media (min-width: 50em) { img:not(.logo) { max-height: 400px; } }

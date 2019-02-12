@@ -1,10 +1,10 @@
-// Variables
+/* Variables */
 :root {
   --font-title: "Lato", sans-serif;
   --font-body: "Crimson Pro S", serif;
   --font-code: "SF Mono", Menlo, monospace;
 }
-// @media (prefers-color-scheme: no-preference), (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: no-preference), (prefers-color-scheme: light) { */
 :root {
   --color-background: white;
   --color-text: #222;
@@ -13,7 +13,7 @@
   --color-accent-alternate: #5CBBA3;
   --filter-logo: none;
 }
-// }
+/* } */
 @media (prefers-color-scheme: dark) {
   :root {
     --color-background: #1E1E1E;
@@ -25,7 +25,7 @@
   }
 }
 
-// Fonts
+/* Fonts */
 @font-face {
   font-family: "Lato";
   src: local("Lato Black"), local("Lato-Black"),
@@ -55,7 +55,7 @@
   font-style: normal;
 }
 
-// Base
+/* Base */
 html, body, div, span, object, iframe, h1, h2, h3, h4, p, blockquote, pre, a, address, cite, code, em, img, kbd, small, strike, strong, sub, sup, b, u, i, center, ol, ul, li, form, label, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, figure, footer, header, menu, section, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
@@ -72,22 +72,30 @@ html {
 @media (max-width: 50em) { html { padding: 1rem; } }
 @media (min-width: 50em) { html {
   font-size: 22px;
+  padding: 2em 0 0 0;
+} }
+@media (min-width: 50em) { .wrapper {
   max-width: 675px;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 2em;
-  padding-bottom: 2em;
-} }
+}}
 
-// Spacing
-h1, h2, h3, h4, h5, h6, p, i, ul, ol, blockquote, pre, img:not(.logo), table, figure, audio, video {
+/* Spacing */
+h1, h2, h3, h4, p, i, ul, ol, blockquote, pre, table, figure, audio, video {
   margin-top: 1rem;
+  margin-bottom: 1rem;
 }
-li { margin-top: 0.5rem; }
+li {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
 article,
-main + footer { margin-top: 2rem; }
+main + footer {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 
-// Font Size
+/* Font Size */
 h1, h2, h3, h4 {
   font-family: var(--font-title);
   line-height: 1.05;
@@ -95,7 +103,7 @@ h1, h2, h3, h4 {
 h1 { font-size: 1.9em; }
 h2 { font-size: 1.25em; }
 
-// Color & Style
+/* Color & Style */
 a, a:hover {
   color: unset;
 }
@@ -120,14 +128,5 @@ img.logo {
   display: block;
   filter: var(--filter-logo);
 }
-img:not(.logo) {
-  border: 0.25rem solid var(--color-text);
-  box-sizing: border-box;
-  display: block;
-  object-fit: cover;
-  width: 100%;
-}
-@media (max-width: 50em) { img:not(.logo) { max-height: 200px; } }
-@media (min-width: 50em) { img:not(.logo) { max-height: 400px; } }
 @media (max-width: 50em) { ul, ol { padding-left: 1.5em; } }
 @media (min-width: 50em) { ul, ol { padding-left: 2em; } }
