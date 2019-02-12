@@ -1,115 +1,14 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-body { font: unset; }
-blockquote {
-  color: var(--color-text);
-  font-size: var(--font-size);
-  letter-spacing: 0;
-}
-.highlighter-rouge .highlight { background-color: var(--color-background-alternate); }
-.wrapper.wrapper {
-  padding-top: 0;
-  padding-bottom: 0;
-}
-.site-header {
-  border: 0;
-  min-height: unset;
-}
-.page-content { padding: 0; }
-.post-content { margin: 0; }
-.site-footer {
-  border: 0;
-  padding: 0;
-}
-.post-list { padding: 0; }
-.post-header { margin: 0; }
-.post-title {
-  line-height: var(--font-line-height-title);
-  margin-bottom: calc(var(--margin) / 2);
-}
-
 @import "normalize";
-
-:root {
-  /* TODO: Remove these when 'prefers-color-scheme' has broader support */
-  --filter-logo: none;
-}
-@media (prefers-color-scheme: light) {
-  :root {
-    --filter-logo: none;
-  }
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --filter-logo: saturate(1000%) hue-rotate(-15deg) brightness(0.55);
-  }
-}
-
-.post-content h1 { font-size: calc(var(--font-size) * 2); }
-.post-content h2 { font-size: calc(var(--font-size) * 1.66); }
-.post-content h3 { font-size: calc(var(--font-size) * 1.33); }
-.post-content h4 { font-size: calc(var(--font-size) * 1.16); }
-
-// Margins
-
-body {
-  box-sizing: border-box;
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
-@media (min-width: 45em) {
-  body {
-    padding-top: calc(var(--margin) * 2);
-    padding-bottom: calc(var(--margin) * 2);
-  }
-}
-
-.site-header {
-  margin-bottom: calc(var(--margin) * 2);
-}
-
-.site-footer {
-  margin-top: calc(var(--margin) * 2);
-}
-
-.post-list { margin-top: calc(var(--margin) * -0.5); }
-.post-list li:not(:first-of-type) { margin-top: calc(var(--margin) * 1.5); }
-
-// Typography
-
-.site-header img[alt="logo"] {
-  filter: var(--filter-logo);
-}
-
-.site-header .wrapper {
-  align-items: center;
-  display: flex;
-}
-
-.site-footer .post-meta {
-  font-size: var(--font-size-hint);
-}
-
-.post-list .post-link {
-  color: var(--color-text);
-  font-family: var(--font-title);
-  font-size: calc(var(--font-size) * 1.66);
-  font-weight: 700;
-  line-height: var(--font-line-height-title);
-}
 
 .post-meta {
   color: var(--color-text-alternate);
-  font-size: calc(var(--font-size-hint) * 1.1);
+  font-size: 0.8rem;
   font-style: italic;
+  line-height: 1.44;
 }
-
-.post-header { text-align: center; }
-
-.post-title {
-  font-size: calc(var(--font-size) * 2);
-  letter-spacing: 0;
+main .post-meta {
+  margin-bottom: -0.75rem;
 }

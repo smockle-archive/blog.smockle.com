@@ -1,14 +1,14 @@
-<footer class="site-footer h-card">
+<footer class="site-footer">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="wrapper">
     {%- if site.posts.size > 0 -%}
-    <div class="post-meta">
-      &copy; {{ 'now' | date: "%Y" }} Clay Miller&#32;~&#32;
-      {%- if page.layout == "home" or page.layout == "post" -%}
-      Licensed under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/legalcode">CC-BY-4.0</a>&#32;~&#32;
-      {%- endif -%}
-      <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
-    </div>
+      <div class="post-meta">
+        &copy; {{ 'now' | date: "%Y" }} Clay Miller&#32;~&#32;
+        {%- if page.layout == "home" or page.layout == "post" -%}
+        Licensed under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/legalcode">CC-BY-4.0</a>&#32;~&#32;
+        {%- endif -%}
+        <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
+      </div>
     {%- endif -%}
   </div>
 </footer>
