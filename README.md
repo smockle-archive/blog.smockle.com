@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.com/smockle/blog.smockle.com.svg?branch=master)](https://travis-ci.com/smockle/blog.smockle.com)
 [![Depfu](https://badges.depfu.com/badges/da68e8ebc1e87b22ee0b2b0df1510367/overview.svg)](https://depfu.com/github/smockle/blog.smockle.com?project_id=6950)
+[![Known Vulnerabilities](https://snyk.io/test/github/smockle/blog.smockle.com/badge.svg?targetFile=Gemfile.lock)](https://snyk.io/test/github/smockle/blog.smockle.com?targetFile=Gemfile.lock)
 
 ## Setup
 
