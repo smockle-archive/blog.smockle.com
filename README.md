@@ -7,6 +7,11 @@
 ## Setup
 
 ```Bash
+# Old
 $ docker run -v ~/Developer/blog.smockle.com:/srv/jekyll/blog.smockle.com -w /srv/jekyll/ -it jekyll/jekyll jekyll new blog.smockle.com
 $ docker run -p 4000:4000 -v ~/Developer/blog.smockle.com:/srv/jekyll/blog.smockle.com -w /srv/jekyll/blog.smockle.com -it jekyll/jekyll /bin/bash -c "bundle install && jekyll serve"
+
+# New
+$ docker build -t blogsmocklecom_blog .
+$ docker run -p 4000:4000 -v "$(pwd)":/srv/jekyll/blog.smockle.com -it blogsmocklecom_blog
 ```
