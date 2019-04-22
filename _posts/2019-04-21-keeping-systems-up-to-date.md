@@ -23,4 +23,4 @@ If you maintain Docker images, you’ll want to rebuild them when their base ima
 [3]:	https://docs.docker.com/docker-hub/builds/
 [4]:	https://github.com/smockle/pifiles/blob/def7b993eb0a2c9008154716d6708a887bfe2439/pifiles.sh#L32-L58
 
-[image-1]:	/assets/2019-04-21-keeping-systems-up-to-date/repository-links.png
+[image-1]:	/assets/images/2019-04-21-keeping-systems-up-to-date/repository-links.png
