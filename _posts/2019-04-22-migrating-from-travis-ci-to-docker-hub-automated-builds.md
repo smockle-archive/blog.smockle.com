@@ -8,7 +8,7 @@ Historically, I’ve used Travis CI to build and push new versions of my Docker 
 
 The migration process was straightforward, with one complication—I build multi-architecture images using a [Docker image manifest][3]. This is not supported by the Docker Hub UI or by the version of Docker installed on the build infrastructure. But with [“custom build phase hooks”][4], I was able to build and push multi-architecture images successfully¹.
 
-First, I configured Automated Builds in the Docker Hub UI. I changed the value of “Build Tag” from `latest` to `build` and added set the “Environment Variable” `DOCKER_CLI_EXPERIMENTAL` to `enabled`:
+First, I configured Automated Builds in the Docker Hub UI. I changed the value of “Build Tag” from `latest` to `build` and set the “Environment Variable” `DOCKER_CLI_EXPERIMENTAL` to `enabled`:
 
 ![][image-1]
 
