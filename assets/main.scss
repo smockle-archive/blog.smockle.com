@@ -10,13 +10,14 @@
   line-height: 1.44;
 }
 main .post-meta {
-  margin-bottom: -0.75rem;
+  margin-bottom: -1rem;
 }
 img:not(.logo) {
-  border: 0.25rem solid var(--color-text);
+  background-color: var(--color-background-alternate); 
   box-sizing: border-box;
   display: block;
   object-fit: cover;
+  padding: 0.25rem;
   margin-top: 1rem;
   width: 100%;
 }
